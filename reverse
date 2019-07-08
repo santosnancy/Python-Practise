@@ -1,0 +1,2 @@
+name = ['apple','carlos','santos']
+print (name.sort(reverse = True))

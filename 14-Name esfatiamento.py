@@ -1,0 +1,8 @@
+name = input('enter your name! ')
+A = name.upper()
+B = name.lower()
+C = name.strip()
+D = name.split()
+E = len(D[0])
+print('='* 20)
+print(f'{A},\n{B},\n{C},\n{E}')
